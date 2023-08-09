@@ -1,0 +1,13 @@
+{
+    "reply_markup": {
+        "resize_keyboard": true,
+        "keyboard": [
+            [
+                {
+                    "text": "Номер телефона",
+                    "request_contact": true
+                }
+            ]
+        ]
+    }
+}
